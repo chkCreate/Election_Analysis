@@ -11,7 +11,7 @@ The Colorado Board of Elections wanted to review and analyze the recent local co
 The eleection data result were organized and printed as show below in the image "Election Analysis Results".
   
 <p align="center">
-  <img width="400" height="800" src= "https://github.com/chkCreate/Election_Analysis/blob/a667e18ffb69a23426da3e7d91d6c874b47caeb5/Resources/election_results_txt.PNG" title "Election Analysis Results">
+  <img width="400" height="700" src= "https://github.com/chkCreate/Election_Analysis/blob/a667e18ffb69a23426da3e7d91d6c874b47caeb5/Resources/election_results_txt.PNG" title "Election Analysis Results">
 </p>
   
 - How many votes were cast in this congressional election?
